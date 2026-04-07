@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yabav/static/css/main.dc4d6ff2.css",
+    "main.js": "/yabav/static/js/main.8a8930d7.js",
+    "static/media/logo.svg": "/yabav/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yabav/index.html",
+    "main.dc4d6ff2.css.map": "/yabav/static/css/main.dc4d6ff2.css.map",
+    "main.8a8930d7.js.map": "/yabav/static/js/main.8a8930d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8a8930d7.js"
+  ]
+}
