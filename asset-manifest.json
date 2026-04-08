@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/yabav/static/js/main.375ca422.js",
-    "index.html": "/yabav/index.html",
-    "main.375ca422.js.map": "/yabav/static/js/main.375ca422.js.map"
+    "main.js": "/static/js/main.375ca422.js",
+    "index.html": "/index.html",
+    "main.375ca422.js.map": "/static/js/main.375ca422.js.map"
   },
   "entrypoints": [
     "static/js/main.375ca422.js"
